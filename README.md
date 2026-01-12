@@ -4,7 +4,7 @@
 
 ## 1986 - Scandicci Succo di Lana
 
-Data: 1986
+1986
 
 Prima classificata alle Provinciali di Firenze (Finale contro Gandi Firenze) (?)
 
@@ -16,15 +16,11 @@ Da sinistra seduti: Alessandro Pratesi, Umberto Liguori, Andrea Prosperi, Massim
 
 ---
 
-Data: ?
-
 Da sinistra: Raffaele Palumbo, Luca Mugnaini, Alessandro Pratesi, Roberto Bruno, Fabrizio Setti, Stefano Gemmi, Massimiliano Bartolacci, Riccardo Corsi, Massimo Marconi, Umberto Liguori, Paolo Cipriani, Leonardo Terzani
 
 ![](images/465118776_10227090225503514_3321079314346318973_n.jpg)
 
 ---
-
-Data: ?
 
 Scuola Media "Gianni Rodari" - Scandicci
 
@@ -36,8 +32,6 @@ Da sinistra in piedi: Luca Mugnaini, Massimiliano Bartolacci, Massimiliano Vacan
 
 ## Squadra della regione Toscana
 
-Data: ?
-
 Da sinistra in piedi: (?), Alessandro Bachi, Luca Mugnaini, Enrico Gugliotti, Riccardo Riccioni, Raffaele Palumbo, Roberto Picchi, Stefano Marchi
 
 Da sinistra accosciati: Massimiliano Bartolacci, (?), Materassi(?), Massimo Marconi, Simone Amidei, Emanuele Centi
@@ -48,7 +42,7 @@ Da sinistra accosciati: Massimiliano Bartolacci, (?), Materassi(?), Massimo Marc
 
 ## Scandicci Wolfsbräu - Serie C, Stagione 1988-89
 
-Data: 23 Novembre 1988
+23 Novembre 1988
 
 Palazzetto dello Sport di Scandicci
 
