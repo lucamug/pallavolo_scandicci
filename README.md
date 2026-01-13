@@ -52,4 +52,4 @@ In piedi avanti, da sinistra: Alessandro Gori, Luca Mugnaini, Fabio Paoli, Carlo
 
 ---
 
-[Pallavolo Vingone](pallavolo_vingone/) | [Commenti/Richieste](https://github.com/lucamug/pallavolo_scandicci/issues)
+[Pallavolo Vingone](pallavolo_vingone/) | [Commenti / Richieste](https://github.com/lucamug/pallavolo_scandicci/issues)

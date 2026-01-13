@@ -10,4 +10,4 @@ Accosciati da sinistra: Alessandro Lunaticini, (?), Massimo Marconi, (?), (?), (
 
 ---
 
-[Pallavolo Scandicci](..) | [Commenti/Richieste](https://github.com/lucamug/pallavolo_scandicci/issues)
+[Pallavolo Scandicci](..) | [Commenti / Richieste](https://github.com/lucamug/pallavolo_scandicci/issues)
