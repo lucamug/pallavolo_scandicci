@@ -1,5 +1,3 @@
-
-
 # Pallavolo Scandicci
 
 ## 1986 - Scandicci Succo di Lana
@@ -51,3 +49,7 @@ In piedi dietro, da sinistra: Massimo Marconi, Massimiliano Vacante, Peruzzi Ste
 In piedi avanti, da sinistra: Alessandro Gori, Luca Mugnaini, Fabio Paoli, Carlo Emilio Bartolacci Iacarelli, Massimiliano Bartolacci, Francesco Fani, Fabrizio Taverna
 
 ![](images/464700968_10227011829023651_3003667227709941881_n.jpg)
+
+---
+
+[Pallavolo Vingone](pallavolo_vingone/) | [Commenti/Richieste](https://github.com/lucamug/pallavolo_scandicci/issues)
